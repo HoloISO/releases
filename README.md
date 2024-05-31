@@ -16,7 +16,7 @@ Click [here](https://t.me/HoloISO) to join **HoloISO** Telegram update channel;
 - Is this official?
 > No, but it may as well be 99% of the way there. Most of the code and packages, are straight from Valve, with zero possible edits, and the ISO is being built same rootfs bootstrap as all HoloISO installations run
 - I have an NVIDIA GPU that is officially supported by NVIDIA now
-> Some kind of support is offered on dev_nv installer branches, but do not expect it to be 100% stable
+> There will be no support provided now, in favour of NVK testing.
 
 Hardware Support:
 -
@@ -31,8 +31,6 @@ Hardware Support:
 
 **GPU:**
 - AMD GPUs with RADV support (Guaranteed to work fully stable. 7xxx requires testing)
-- NVIDIA GPUs (BETA)
-- Intel GPUs (Random experience)
 
 Progress:
 -
